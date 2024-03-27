@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c163789bd68fb3a49b947b52a3b77188, type: 3}
+  m_Name: PlayeConfig
+  m_EditorClassIdentifier: 
+  Data:
+    <ID>k__BackingField: 0
+    <MaxJumpHeight>k__BackingField: 1.2
+    <MaxJumpTime>k__BackingField: 1
+    <Speed>k__BackingField: 9
+    <RotateSpeed>k__BackingField: 0.35
+    <StepSounds>k__BackingField:
+    - {fileID: 8300000, guid: 03fd726b57be4544fa7bed545e5ef12f, type: 3}
+    - {fileID: 8300000, guid: 0914d05fdc022644d958f1ef8a84b9b4, type: 3}
+    - {fileID: 8300000, guid: 8b9350211869d6241b6e4382ebdaf51f, type: 3}
+    - {fileID: 8300000, guid: e007f3dee9cdfcb46967befdea843150, type: 3}
+    <JumpSounds>k__BackingField: {fileID: 8300000, guid: 05dd18671e9ec9b45be3ec6cb5e5fa8f,
+      type: 3}
+    <LandSounds>k__BackingField: {fileID: 8300000, guid: f6311b8aae2488b4aa819120432efa58,
+      type: 3}
